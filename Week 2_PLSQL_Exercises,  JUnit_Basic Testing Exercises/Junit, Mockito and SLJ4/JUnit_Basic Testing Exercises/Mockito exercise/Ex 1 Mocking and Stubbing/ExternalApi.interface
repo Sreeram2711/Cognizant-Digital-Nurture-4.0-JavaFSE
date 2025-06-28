@@ -1,4 +1,4 @@
-package learning.junit.Mockito;
+package learning.week2;
 
 public interface ExternalApi {
     String getData();
