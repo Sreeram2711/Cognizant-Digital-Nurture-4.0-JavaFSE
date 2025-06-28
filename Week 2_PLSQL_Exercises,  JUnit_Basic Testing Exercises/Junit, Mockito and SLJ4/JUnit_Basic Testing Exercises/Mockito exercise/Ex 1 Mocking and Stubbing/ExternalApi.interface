@@ -1,0 +1,5 @@
+package learning.junit.Mockito;
+
+public interface ExternalApi {
+    String getData();
+}
